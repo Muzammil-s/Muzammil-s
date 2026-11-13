@@ -4,7 +4,7 @@
 
 **Computer Science Student · Full-Stack Web Engineering · Data Analytics · Defensive Cybersecurity**
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-muzammil--cs.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muzammil-cs.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-muzammilshabbir.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muzammilshabbir.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Shabbir-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil-shabbir-7368a7382)
 [![Email](https://img.shields.io/badge/Email-muzammilw10%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilw10@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923105522970)
@@ -20,7 +20,7 @@ I am a **Computer Science student** based in Pakistan focused on building practi
 - **Iterative Engineering:** Audited and upgraded early academic/internship builds with salted `scrypt` authentication, timing-safe `HS256` JWT validation, atomic stock checks, and XSS-safe DOM builders.
 - **Privacy-First Tools:** Built browser-local CSV profiling and URL phishing-anatomy utilities that execute 100% locally with zero external data uploads.
 - **Test Discipline:** Every flagship repository includes reproducible setup documentation and automated verification (`node --test` / Python `unittest`) alongside live deployed demos.
-- **Featured Showcase:** Explore all 11 projects, system architecture diagrams, and interactive labs at **[muzammil-cs.vercel.app](https://muzammil-cs.vercel.app/)**.
+- **Featured Showcase:** Explore all 11 projects, system architecture diagrams, and interactive labs at **[muzammilshabbir.vercel.app](https://muzammilshabbir.vercel.app/)**.
 
 ---
 
@@ -71,12 +71,12 @@ I am a **Computer Science student** based in Pakistan focused on building practi
 | **Data Engineering and ETL Pipeline** | `Prototype` | Extending DataLens cleaning rules into scheduled Python batch validation |
 | **AI Research Assistant** | `Exploring` | Citation-grounded paper synthesis without fabricated metrics |
 | **Machine Learning & Predictive Analytics** | `Exploring` | Interpretable baseline regression/classification evaluation notebooks |
-| **Global Skills Intelligence · Cloud/DevOps Lab · Personal Finance · Mobile Apps** | `Planned` | Upcoming roadmap tracks documented at [muzammil-cs.vercel.app](https://muzammil-cs.vercel.app/#roadmap) |
+| **Global Skills Intelligence · Cloud/DevOps Lab · Personal Finance · Mobile Apps** | `Planned` | Upcoming roadmap tracks documented at [muzammilshabbir.vercel.app](https://muzammilshabbir.vercel.app/#roadmap) |
 
 ---
 
 <div align="center">
 
-Portfolio Website: **[muzammil-cs.vercel.app](https://muzammil-cs.vercel.app/)** · Repository Showcase: **[Muzammil-s/muzammil-portfolio](https://github.com/Muzammil-s/muzammil-portfolio)**
+Portfolio Website: **[muzammilshabbir.vercel.app](https://muzammilshabbir.vercel.app/)** · Repository Showcase: **[Muzammil-s/muzammil-portfolio](https://github.com/Muzammil-s/muzammil-portfolio)**
 
 </div>
